@@ -1,11 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ReceitasBook.Comunicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ReceitasBook.Comunicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReceitasBook.Comunicacao.dll": {}
+        }
+      },
+      "ReceitasBook.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ReceitasBook.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReceitasBook.Domain.dll": {}
+        }
+      },
+      "ReceitasBook.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ReceitasBook.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReceitasBook.Exceptions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ReceitasBook.Comunicacao/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/ReceitasBook.Comunicacao/ReceitasBook.Comunicacao.csproj",
+      "msbuildProject": "../../Shared/ReceitasBook.Comunicacao/ReceitasBook.Comunicacao.csproj"
+    },
+    "ReceitasBook.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ReceitasBook.Domain/ReceitasBook.Domain.csproj",
+      "msbuildProject": "../ReceitasBook.Domain/ReceitasBook.Domain.csproj"
+    },
+    "ReceitasBook.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/ReceitasBook.Exceptions/ReceitasBook.Exceptions.csproj",
+      "msbuildProject": "../../Shared/ReceitasBook.Exceptions/ReceitasBook.Exceptions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ReceitasBook.Comunicacao >= 1.0.0",
+      "ReceitasBook.Domain >= 1.0.0",
+      "ReceitasBook.Exceptions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hp\\.nuget\\packages\\": {},
@@ -14,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Backend\\ReceitasBook.Application\\ReceitasBook.Application.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Backend\\ReceitasBook.Application\\ReceitasBook.Application.csproj",
       "projectName": "ReceitasBook.Application",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Backend\\ReceitasBook.Application\\ReceitasBook.Application.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Backend\\ReceitasBook.Application\\ReceitasBook.Application.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Backend\\ReceitasBook.Application\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Backend\\ReceitasBook.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +90,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Backend\\ReceitasBook.Domain\\ReceitasBook.Domain.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Backend\\ReceitasBook.Domain\\ReceitasBook.Domain.csproj"
+            },
+            "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj"
+            },
+            "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

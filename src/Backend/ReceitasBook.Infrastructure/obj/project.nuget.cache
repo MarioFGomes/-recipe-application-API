@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kYBPl44oxT+cZKR5VLmYW9t9IZpvyaXiOvC2rscgjiOi0WLYkxUI+ZzO9uaqfPKfoZdtF647QhcTKfCGk9a7Dw==",
+  "dgSpecHash": "/Y6JxgGn8zyfxdfK45mYV4uixQwTasA4ZlYg6VgAwPa7Ej6RK4ZlChsnXmFiXUdoZCNHEUOT04WPWPG7Rao6Gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Backend\\ReceitasBook.Infrastructure\\ReceitasBook.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Backend\\ReceitasBook.Infrastructure\\ReceitasBook.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
