@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SZP1A6oE6zQtamjaoCHihagjTECyIIzWjcqiwS5OA/T/oLYmsRl0E64m8aTJjbpYWzGxtxCuXUNYEu0FqP1e7Q==",
+  "dgSpecHash": "+M8pn+Mx0bapmq1APwwEkibtYvIcwb8WiICANqhjW96EiF1JJnYnNkgNzHmltrKTYlZ3S+RjW+d5DgMQum3wOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Backend\\ReceitasBook.Domain\\ReceitasBook.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Backend\\ReceitasBook.Domain\\ReceitasBook.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

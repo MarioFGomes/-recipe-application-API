@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\bin\Debug\net7.0\ReceitasBook.Domain.deps.json
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\bin\Debug\net7.0\ReceitasBook.Domain.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\bin\Debug\net7.0\ReceitasBook.Domain.pdb
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ReceitasBook.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ReceitasBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ReceitasBook.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ReceitasBook.Domain.AssemblyInfo.cs
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ReceitasBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ReceitasBook.Domain.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\refint\ReceitasBook.Domain.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ReceitasBook.Domain.pdb
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Domain\obj\Debug\net7.0\ref\ReceitasBook.Domain.dll

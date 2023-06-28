@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj": {
+    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj",
         "projectName": "ReceitasBook.Exceptions",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Exceptions\\ReceitasBook.Exceptions.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Exceptions\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj": {
+    "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj",
         "projectName": "ReceitasBook.Comunicacao",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Comunicacao\\ReceitasBook.Comunicacao.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\Meu%20Livro%20de%20Receitas\\src\\Shared\\ReceitasBook.Comunicacao\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\cursos\\Documents\\Dev Estudos\\Udemy\\NETCORE\\API Receitas\\New\\foodbook\\MeuLivrodeReceitas\\src\\Shared\\ReceitasBook.Comunicacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

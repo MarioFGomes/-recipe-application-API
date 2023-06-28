@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\bin\Debug\net7.0\ReceitasBook.Comunicacao.deps.json
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\bin\Debug\net7.0\ReceitasBook.Comunicacao.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\bin\Debug\net7.0\ReceitasBook.Comunicacao.pdb
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ReceitasBook.Comunicacao.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ReceitasBook.Comunicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ReceitasBook.Comunicacao.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ReceitasBook.Comunicacao.AssemblyInfo.cs
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ReceitasBook.Comunicacao.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ReceitasBook.Comunicacao.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\refint\ReceitasBook.Comunicacao.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ReceitasBook.Comunicacao.pdb
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Comunicacao\obj\Debug\net7.0\ref\ReceitasBook.Comunicacao.dll

@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\bin\Debug\net7.0\ReceitasBook.Exceptions.deps.json
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\bin\Debug\net7.0\ReceitasBook.Exceptions.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\bin\Debug\net7.0\ReceitasBook.Exceptions.pdb
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ReceitasBook.Exceptions.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ReceitasBook.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ReceitasBook.Exceptions.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ReceitasBook.Exceptions.AssemblyInfo.cs
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ReceitasBook.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ReceitasBook.Exceptions.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\refint\ReceitasBook.Exceptions.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ReceitasBook.Exceptions.pdb
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Shared\ReceitasBook.Exceptions\obj\Debug\net7.0\ref\ReceitasBook.Exceptions.dll

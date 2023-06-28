@@ -7,8 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\ReceitasBook.Comunicacao\ReceitasBook.Comunicacao.csproj" />
+    <ProjectReference Include="..\..\Shared\ReceitasBook.Exceptions\ReceitasBook.Exceptions.csproj" />
+    <ProjectReference Include="..\ReceitasBook.Application\ReceitasBook.Application.csproj" />
+    <ProjectReference Include="..\ReceitasBook.Infrastructure\ReceitasBook.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
