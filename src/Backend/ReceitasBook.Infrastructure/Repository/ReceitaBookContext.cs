@@ -12,7 +12,7 @@ namespace ReceitasBook.Infrastructure.Repository;
 public class ReceitaBookContext:DbContext
 {
     public ReceitaBookContext(DbContextOptions<ReceitaBookContext> options):base(options){}
-
+     
     public DbSet<Usuario> Usuarios { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
