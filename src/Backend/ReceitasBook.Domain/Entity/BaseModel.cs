@@ -8,6 +8,13 @@ namespace ReceitasBook.Domain.Entity;
 
 public class BaseModel
 {
-    public long Id { get; set; }
-    public DateTime createdAt { get; set; }
+    public Guid Id { get; set; }
+    public DateTime DataRegistro { get; set; }
+    public int Status { get; set; }
+    public BaseModel()
+    {
+        Id = Guid.NewGuid();
+        DataRegistro = DateTime.UtcNow;
+        Status = 1;
+    }
 }

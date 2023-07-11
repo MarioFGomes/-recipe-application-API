@@ -1,3 +1,6 @@
+using ReceitasBook.Api.Filter;
+using ReceitasBook.Application;
+using ReceitasBook.Application.Service.AutoMapper;
 using ReceitasBook.Domain.Extensions;
 using ReceitasBook.Infrastructure;
 using ReceitasBook.Infrastructure.Migrations;
@@ -10,7 +13,14 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAplication(builder.Configuration);
 builder.Services.AddRepository(builder.Configuration);
+builder.Services.AddMvc(options=>options.Filters.Add(typeof(ExceptionFilter)));
+builder.Services.AddScoped(options => new AutoMapper.MapperConfiguration(config =>
+{
+    config.AddProfile(new AutoMapperProvider());
+}).CreateMapper());
+
 
 var app = builder.Build();
 

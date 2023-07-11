@@ -13,7 +13,7 @@ public class ReceitaBookContext:DbContext
 {
     public ReceitaBookContext(DbContextOptions<ReceitaBookContext> options):base(options){}
      
-    public DbSet<Usuario> Usuarios { get; set; }
+    public DbSet<Usuario> Usuario { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(ReceitaBookContext).Assembly);
