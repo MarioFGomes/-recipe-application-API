@@ -20,12 +20,12 @@ namespace ReceitasBook.Infrastructure.Repository
         }
         public async Task Adicionar(Usuario usuario)
         {
-            await _Context.Usuarios.AddAsync(usuario);
+            await _Context.Usuario.AddAsync(usuario);
         }
 
         public async Task<bool> ExisteUsuarioComEmail(string email)
         {
-            return await _Context.Usuarios.AnyAsync(m =>m.Email.Equals(email));
+            return await _Context.Usuario.AnyAsync(m =>m.Email.Equals(email));
         }
     }
 }

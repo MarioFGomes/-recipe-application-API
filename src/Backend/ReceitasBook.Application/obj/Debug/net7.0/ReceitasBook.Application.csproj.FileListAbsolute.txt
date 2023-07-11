@@ -17,3 +17,4 @@ C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New
 C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Application\obj\Debug\net7.0\refint\ReceitasBook.Application.dll
 C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Application\obj\Debug\net7.0\ReceitasBook.Application.pdb
 C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Application\obj\Debug\net7.0\ref\ReceitasBook.Application.dll
+C:\Users\hp\OneDrive\cursos\Documents\Dev Estudos\Udemy\NETCORE\API Receitas\New\foodbook\MeuLivrodeReceitas\src\Backend\ReceitasBook.Application\bin\Debug\net7.0\en\ReceitasBook.Exceptions.resources.dll
