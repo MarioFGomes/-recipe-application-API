@@ -37,7 +37,7 @@ namespace ReceitasBook.Application.UseCase.Usuario
 
         public async Task<ResponseRegistrarUsuario> Execute(RequestRegistrarUsuario request)
         {
-            Validar(request);
+           await  Validar(request);
             var user = _mapper.Map<ReceitasBook.Domain.Entity.Usuario>(request);
 
             user.Password = _encriptador.Criptografar(request.Password);
@@ -55,7 +55,7 @@ namespace ReceitasBook.Application.UseCase.Usuario
 
         }
 
-        private async void Validar(RequestRegistrarUsuario request)
+        private async Task Validar(RequestRegistrarUsuario request)
         {
             var validator = new RegistrarUsuarioValidator();
             var result = validator.Validate(request);
