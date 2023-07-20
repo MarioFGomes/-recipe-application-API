@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using ReceitasBook.Application.Service.Criptografia;
 using ReceitasBook.Application.Service.JWT;
-using ReceitasBook.Comunicacao.Request;
+using ReceitasBook.Comunicacao.Request.Usuario;
 using ReceitasBook.Comunicacao.Response.Usuario;
 using ReceitasBook.Domain.Entity;
 using ReceitasBook.Domain.Repository;

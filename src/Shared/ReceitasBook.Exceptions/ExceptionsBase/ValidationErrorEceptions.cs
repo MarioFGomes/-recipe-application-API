@@ -10,7 +10,7 @@ namespace ReceitasBook.Exceptions.ExceptionsBase
     {
         public List<string> ErrorsList;
 
-        public ValidationErrorEceptions(List<string> Errors)
+        public ValidationErrorEceptions(List<string> Errors) : base(string.Empty)
         {
             ErrorsList = Errors;
         }

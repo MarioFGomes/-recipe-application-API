@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ReceitasBook.Exceptions.ExceptionsBase;
 
-public class ReceitasBookException:SystemException
+public class LoginInvalidoException: ReceitasBookException
 {
-    public ReceitasBookException(string mensagem) : base(mensagem)
+    public LoginInvalidoException() : base(ResourceMessageError.LOGIN_INVALIDO)
     {
 
     }

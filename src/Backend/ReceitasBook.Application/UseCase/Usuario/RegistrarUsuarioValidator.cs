@@ -1,6 +1,6 @@
 ﻿
 using FluentValidation;
-using ReceitasBook.Comunicacao.Request;
+using ReceitasBook.Comunicacao.Request.Usuario;
 using ReceitasBook.Exceptions;
 using System.Text.RegularExpressions;
 

@@ -27,5 +27,11 @@ namespace ReceitasBook.Infrastructure.Repository
         {
             return await _Context.Usuario.AnyAsync(m =>m.Email.Equals(email));
         }
+
+        public async Task<Usuario> Login(string email, string senha)
+        {
+            return await _Context.Usuario.AsNoTracking()
+                .FirstOrDefaultAsync(c => c.Email.Equals(email) && c.Password.Equals(senha));
+        }
     }
 }

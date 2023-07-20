@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ReceitasBook.Domain.Entity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,4 +10,5 @@ namespace ReceitasBook.Domain.Repository;
 public interface IUsuarioReadOnlyRepository
 {
     Task<bool> ExisteUsuarioComEmail(string email);
+    Task<Usuario> Login(string email, string senha);
 }

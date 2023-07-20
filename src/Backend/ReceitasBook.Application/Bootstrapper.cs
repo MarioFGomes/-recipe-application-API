@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using ReceitasBook.Application.Service.Criptografia;
 using ReceitasBook.Application.Service.JWT;
+using ReceitasBook.Application.UseCase.Login;
 using ReceitasBook.Application.UseCase.Usuario;
 using System;
 using System.Collections.Generic;
@@ -18,8 +19,9 @@ namespace ReceitasBook.Application
 
             AdicionarchaveSenha(services, configuration);
             AdicionarJWT(services, configuration);
-            services.AddScoped<IRegistrarUsuarioUseCase, RegistrarUsuarioUseCase>();
-         
+            services.AddScoped<IRegistrarUsuarioUseCase, RegistrarUsuarioUseCase>()
+                    .AddScoped<ILoginUseCase, LoginUseCase>();
+
         }
 
         private static void AdicionarchaveSenha(this IServiceCollection services, IConfiguration configuration)

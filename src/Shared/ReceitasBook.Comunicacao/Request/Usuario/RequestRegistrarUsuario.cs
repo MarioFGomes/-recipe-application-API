@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ReceitasBook.Comunicacao.Request
+namespace ReceitasBook.Comunicacao.Request.Usuario
 {
     public class RequestRegistrarUsuario
     {

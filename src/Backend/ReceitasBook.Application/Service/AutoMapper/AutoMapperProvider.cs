@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using ReceitasBook.Comunicacao.Request;
+using ReceitasBook.Comunicacao.Request.Usuario;
 using ReceitasBook.Domain.Entity;
 using System;
 using System.Collections.Generic;

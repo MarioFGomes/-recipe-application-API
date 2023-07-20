@@ -1,4 +1,4 @@
-﻿using ReceitasBook.Comunicacao.Request;
+﻿using ReceitasBook.Comunicacao.Request.Usuario;
 using ReceitasBook.Comunicacao.Response.Usuario;
 using System;
 using System.Collections.Generic;
