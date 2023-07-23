@@ -1,0 +1,95 @@
+{
+	"info": {
+		"_postman_id": "3f933cb5-0a17-4711-8129-76941b9eb06d",
+		"name": "MeuLivrodeRecitaRequest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18948524"
+	},
+	"item": [
+		{
+			"name": "CreateUser",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"// +244 932-041-319\r",
+							"var ddd= _.random(100,300)\r",
+							"var primeirotresnumero=_.random(100,900)\r",
+							"var segundotresnumero=_.random(100,900)\r",
+							"var terceirotresnumero=_.random(100,900)\r",
+							"\r",
+							"randomPhone= \"+\"+ddd+\" \"+primeirotresnumero+\"-\"+segundotresnumero+\"-\"+terceirotresnumero\r",
+							"\r",
+							"pm.environment.set(\"randomPhone\",randomPhone)"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Validar se a requisição foi feita com sucesso\",function(){\r",
+							"    pm.response.to.have.status(201);\r",
+							"    pm.response.to.be.withBody;\r",
+							"    pm.response.to.have.jsonBody(\"token\");\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"{{$randomFullName}}\",\r\n  \"email\": \"{{$randomEmail}}\",\r\n  \"password\": \"{{$randomPassword}}\",\r\n  \"telefone\": \"{{randomPhone}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BaseUrl}}/create",
+					"host": [
+						"{{BaseUrl}}"
+					],
+					"path": [
+						"create"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "BaseUrl",
+			"value": "https://localhost:7116/api/usuario",
+			"type": "string"
+		}
+	]
+}
